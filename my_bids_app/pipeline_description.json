@@ -1,0 +1,15 @@
+{
+    "Name": "my_bids_app - My template snakebids app.",
+    "BIDSVersion": "1.4.0",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "my_bids_app",
+            "Version": "0.1.0",
+            "CodeURL": "http://github.com/akhanf/my_bids_app",
+            "Author": "Ali Khan",
+            "AuthorEmail": "ali.khan@uwo.ca"
+ 
+        }
+    ]
+}
